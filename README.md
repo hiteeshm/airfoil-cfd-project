@@ -4,7 +4,7 @@ Tools used: NASA FoilSim
 
 Methodology - Selected two airfoils - Symmetrical (e.g NACA 0012) and Cambered (e.g NACA 2412). Simulated airflow over each airfoil using NASA Foilsim. Varied Angle of Attack (0,5,15) and recorded lift, drag and coefficient values. Compared and analyzed how airfoil shapes and Angle of Attack affect aerodynamic peformance
 
-Observations at 100 km/h, 100 m altitude -
+Observations at 100 mp/h, 100 m altitude -
 
 Symmetrical Airfoil at 0 AOA - 0N lift, 0.00 Lift Coefficient, 70N drag, 0.017 Drag coefficient
 
@@ -22,7 +22,7 @@ It could be observed that the Symmetrical Airfoil does produce lift at 5 AOA. Li
 15AOA
 It could be observed that the Symmetrical Airfoil produces much more lift at 15 AOA. However, at a much higher AOA, there is a lot more airflow seperation. This leads to induced drag and reduces the aerodynamic efficieny of the Airfoil. 
 
-Observations at 100 km/h, 100 m altitude -
+Observations at 100 mp/h, 100 m altitude -
 
 Cambered Airfoil at 0 AOA - 2351N lift, 0.59 Lift coefficient, 241N drag, 0.060 Drag coefficient
 
